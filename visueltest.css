@@ -1,0 +1,38 @@
+
+body {
+background-color: #35390F;
+padding: 0em 3em 0em 1em;
+}
+header {
+font-family: cursive;
+color: #3B4011;
+text-shadow: #0E0F00 2px 2px 3px;
+text-align: right;
+position : relative;
+z-index: 1;
+
+}
+h1{
+font-size: 3em;
+margin: 20px 0 0 0 ;
+}
+h2{
+margin:  0  0 20px 0 ;
+}
+footer {
+font-family: cursive;
+color: #373B0F;
+text-shadow: #282B0B 2px 2px 3px;
+font-size: 18em;
+top: 39vh;
+right : 5vw;
+position : fixed;
+z-index: 1;
+}
+.article{
+position : relative;
+font-size: 2em;
+color : #D695C1;
+font-family: monospace;
+z-index: 2;
+}
